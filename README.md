@@ -10,6 +10,13 @@ Install Python 3.14 and [uv](https://docs.astral.sh/uv/), then install the proje
 uv sync
 ```
 
+## Demo
+
+
+https://github.com/user-attachments/assets/6fb955b0-f966-4b15-bd44-c76956c2610c
+
+
+
 ## Run
 
 Transcribe microphone input:
