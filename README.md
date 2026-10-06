@@ -1,6 +1,6 @@
 # Streaming Speech Recognition
 
-This project uses NVIDIA's Nemotron streaming speech recognition model to transcribe audio in real time. It includes scripts for microphone input and system audio.
+This project uses NVIDIA's Nemotron streaming speech recognition model to transcribe audio in real time.
 
 ## Setup
 
