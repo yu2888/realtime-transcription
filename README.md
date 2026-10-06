@@ -4,7 +4,7 @@ This project uses NVIDIA's Nemotron streaming speech recognition model to transc
 
 ## Setup
 
-Install Python 3.14 and [uv](https://docs.astral.sh/uv/), then install the project dependencies:
+Install [uv](https://docs.astral.sh/uv/), then install the project dependencies:
 
 ```powershell
 uv sync
@@ -18,17 +18,10 @@ https://github.com/user-attachments/assets/6fb955b0-f966-4b15-bd44-c76956c2610c
 
 
 ## Run
-
-Transcribe microphone input:
-
-```powershell
-uv run python stream.py
-```
-
 Transcribe audio playing through the default speaker:
 
 ```powershell
-uv run python stream_system_audio.py
+uv run stream_system_audio.py
 ```
 
 Press `Ctrl+C` to stop transcription.
